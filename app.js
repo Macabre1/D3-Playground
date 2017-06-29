@@ -19,7 +19,8 @@ var nodes = [
         {id: 2, reflexive: false},
         {id: 3, reflexive: true},
         {id: 4, reflexive: true},
-        {id: 5, reflexive: true}
+        {id: 5, reflexive: true},
+        {id: 6, reflexive: true}
     ],
     lastNodeId = 2,
     links = [
